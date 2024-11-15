@@ -3,7 +3,7 @@
 Em meu atual trabalho na empresa CEDAE, realizo relatórios de pendências semanais de certas gerências.
 No dia de quarta-feira realizo a busca das pendências da gerência GRIO (nome fictício). 
 O problema incial é que não conseguimos extrair os dados do sistema da cedae já com o nome GRIO, juntamente com a formatação requerida pelas gerências.
-Portanto para evitar a demora e o desgaste de ficar toda semana realizado o trabalho mecânico de manipular e formatar dados, propus um código em python que facilita todo processo em poucos cliques.
+Portanto, para evitar a demora e o desgaste de ficar toda semana realizando o trabalho mecânico de manipular e formatar dados, propus um código em python que facilita todo processo em poucos cliques.
 
 
 ## PLANILHA EXPORTADA DO SISTEMA DA CEDAE
